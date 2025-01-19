@@ -1,6 +1,6 @@
 # **Projet Swap SOL → SPL Token** ⚡
 
-Après **de nombreuses heures** de recherche, d'essais et de tests (parfois infructueux) 🏗️, j'ai enfin réussi à trouver un bout de code pour effectuer un **swap** entre du **SOL** et un **token SPL** sur la blockchain Solana. 
+Après **de nombreuses heures** de recherche, d'essais et de tests 🏗️, j'ai enfin réussi à trouver un bout de code pour effectuer un **swap** entre du **SOL** et un **token SPL** sur la blockchain Solana. 
 
 Le code original provient de diverses ressources trouvées sur internet 🕵️‍♀️, mais je l'ai **entièrement adapté** et **simplifié** afin qu'il soit **facile** à intégrer dans vos propres projets (notamment en l'appelant depuis un autre fichier Python). 🎉
 
