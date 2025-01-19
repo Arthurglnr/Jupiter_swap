@@ -24,13 +24,13 @@ Le code original provient de diverses ressources trouvées sur internet 🕵️�
    ```
 (Vérifiez que vous utilisez bien Python 3.9 ou plus récent.)
 
-3. Dans le fichier de configuration (par exemple buy_token.py), modifiez les variables selon vos besoins :
-        PRIVATE_KEY_BASE64
-        RPC_ENDPOINT (Mainnet, Devnet, etc.)
-        INPUT_MINT (ex : So11111111111111111111111111111111111111112 pour SOL)
-        OUTPUT_MINT (le token SPL souhaité)
-        AMOUNT (montant en lamports)
-        SLIPPAGE_BPS, etc.
+3. Dans le fichier de configuration (par exemple buy_token.py), modifiez les variables selon vos besoins :<br>
+        PRIVATE_KEY_BASE64<br>
+        RPC_ENDPOINT (Mainnet, Devnet, etc.)<br>
+        INPUT_MINT (ex : So11111111111111111111111111111111111111112 pour SOL)<br>
+        OUTPUT_MINT (le token SPL souhaité)<br>
+        AMOUNT (montant en lamports)<br>
+        SLIPPAGE_BPS, etc.<br>
 
 4. Exécutez simplement votre fichier de configuration :
 ```bash
